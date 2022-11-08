@@ -1,3 +1,4 @@
 # ModalityWorklistScuX
 Bobs Dicom Tools Modality Worklist SCU releases 
 * v5.9.0 Initial beta release
+* v5.9.1 Test Squirrel update
